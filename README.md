@@ -249,6 +249,7 @@ link = "https://github.com/zzossig/hugo-theme-zzo"
 
 # sidebar
 enableBio = true # home page sidebar
+enableBioSocialLinks = true # sidebar social icons
 enableSidebar = true # Set to false to create the full width of the content.
 enableSidebarTags = true # if you want to use tags.
 enableSidebarSeries = true
